@@ -1,0 +1,2 @@
+Explaination of naming convention.
+Some particpant's names were recorded and some weren't. In case where participants names weren't recorded the administrators first initial and the particpant's order number was used.
